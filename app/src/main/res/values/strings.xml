@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gym-Fit</string>
+    <string name="start_training">Training starten</string>
+    <string name="overview">Übersicht</string>
+    <string name="training">Training</string>
+    <string name="records">Rekorde</string>
+    <string name="history">Verlauf</string>
+    <string name="settings">Einstellungen</string>
+    <string name="no_workouts">Noch kein Training gespeichert. Starte dein erstes Training.</string>
+</resources>
